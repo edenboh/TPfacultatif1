@@ -71,6 +71,8 @@ public class TpFactultatifController implements Initializable
     private AnchorPane ancExemple2;
     @FXML
     private Text txtPersonne3;
+    @FXML
+    private ImageView imgPersonne2;
 
 
     @Override
